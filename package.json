@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anudmello/Portfolio.git"
+  },
   "author": "anudmello",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anudmello/Portfolio/issues"
+  },
+  "homepage": "https://github.com/anudmello/Portfolio#readme",
   "dependencies": {
     "bootstrap": "^4.6.0",
     "font-awesome": "^4.7.0"
